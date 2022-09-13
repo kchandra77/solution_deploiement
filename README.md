@@ -10,7 +10,7 @@ In this tutorial we'll define a github action CI pipeline that will :
 
 This joke app is a simple NestJS application, but we will use pnpm to build and test it.
 
-Let's start.
+Let's start !
 
 ### Create a github action file
 
